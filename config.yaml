@@ -1,0 +1,24 @@
+# NightCrawler Config
+# Customize tool paths here if they're not in your PATH
+
+tools:
+  # Leave empty to auto-detect from PATH
+  subfinder: ""
+  httpx: ""
+  katana: ""
+  gau: ""
+  waybackurls: ""
+  subjs: ""
+  jsluice: ""
+  hakrawler: ""
+
+# Scan settings
+scan:
+  concurrency: 50
+  timeout: 30
+  depth: 2
+
+# Report settings
+report:
+  default_template: hackerone
+  default_reporter: YourName
