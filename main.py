@@ -10,7 +10,7 @@
 NightCrawler v3.1 - Advanced JS Secret Scanner with KeyHacks Auto-Validation
 by CyberTechAjju | Keep Learning // Keep Hacking
 
-⚠️ ETHICAL USE ONLY - For authorized security testing and bug bounty programs
+⚠️ ETHICAL USE ONLY - For authorized security testing and bug bounty programs 
 """
 
 import asyncio
